@@ -1,0 +1,4 @@
+echo nbproject/private/ >> .gitignore
+echo build/ >> .gitignore
+echo dist/ >> .gitignore
+echo *.class >> .gitignore
